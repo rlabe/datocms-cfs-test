@@ -24,3 +24,25 @@ pagination:
     </div>
   {% endfor %}
 </div>
+
+<div class="showcase"{% if paginator.next_page_path %} data-next-url="{{ paginator.next_page_path }}"{% endif %}>
+  {% for work in paginator.posts %}
+  <figure>
+    <img src="{{ work.cover_image }}" alt="{{ include.titre }}" loading="lazy" class="img-fluid" style="border-radius: 5%;">
+    <div class="desktop image-overlay bulle3">
+      <div class="overlay-text text-center">
+        <div class="info-text">
+          <strong>{{ work.title }}</strong>
+        </div>
+
+        <hr class="small-divider border-white">
+        
+          <button class="btn btn-block" style="margin-top: 15px; color: #fff !important;">
+            <i class="fa fa-edit"></i> Inscription
+          </button>
+      
+      </div>
+    </div>
+  </figure>
+  {% endfor %}
+</div>
