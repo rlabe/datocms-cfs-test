@@ -1,0 +1,28 @@
+---
+activites:
+- name: Mini-Foot
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/stages/activitessportives/aquafun.png"
+  online: true
+  nouveau: true
+  age_debut: P2
+  age_fin: P6
+  description: Une super chouette activité !
+  ecoles:
+  - name: Collège
+    province: Brabant Wallon
+  - name: Aro
+    province: Brabant Wallon
+- name: Multisports
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/stages/activitessportives/aquafun.png"
+  online: true
+  nouveau: false
+  age_debut: Acc
+  age_fin: M3
+  description: Une super chouette activité !
+  ecoles:
+  - name: ARO
+    province: ''
+  - name: Erpent
+    province: ''

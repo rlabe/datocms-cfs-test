@@ -1,0 +1,196 @@
+---
+mycfs:
+  href: https://www12.iclub.be/myiclub.asp?ClubID=559&LG=FR
+  icone: fa fa-sign-in
+  autre_page: oui
+  texte_ordi: Se connecter - My CFS
+  texte_mobile: My CFS
+inscription:
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
+  icone: fa fa-edit
+  autre_page: oui
+  texte_ordi: Inscription rapide
+  texte_mobile: Inscription
+slider:
+- titre: STAGES TOUSSAINT
+  src: "/assets/images/stages_toussaint_2021.jpg"
+  href: https://www.lecfs.be/stages/
+- titre: ACTIVITES EXTRASCOLAIRES
+  src: "/assets/images/extrascolaire2021-2022.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
+- titre: ECOLE DE NATATION
+  src: "/assets/images/nouvelles_ecoles_natation_walhain_never-1.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5
+- titre: BON CADEAU
+  src: "/assets/images/boncadeauete-1.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=14
+selection:
+  nom: Sélection du CFS
+  images:
+  - titre: Interactif Lü
+    titre_img: Interactif Lü
+    titre_overlay: Interactif Lü
+    src: "/assets/images/cfs_interactif_lu.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: oui
+    bouton: Inscription
+    couleur_bouton: ''
+  - titre: Extrascolaire
+    titre_img: Extrascolaire
+    titre_overlay: Extrascolaire
+    src: "/assets/images/boutonsactivites/extrascolaires.png"
+    href: https://www.lecfs.be/activites/extrascolaire/
+    autre_page: oui
+    bouton: Inscription
+    couleur_bouton: ''
+  - titre: Stages
+    titre_img: Stages enfants
+    titre_overlay: Stages enfants
+    src: "/assets/images/stages/stagesenfants.png"
+    href: "/stages/"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Ecole de Natation
+    titre_img: Ecole de Natation
+    titre_overlay: Ecole de Natation
+    src: "/assets/images/boutonsactivites/ecoledenatation.png"
+    href: https://www.lecfs.be/activites/ecole_de_natation/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Anniversaires
+    titre_img: Anniversaires
+    titre_overlay: Anniversaires
+    src: "/assets/images/anniversaires.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Protocole de sécurité
+    titre_img: Protocole de sécurité
+    titre_overlay: Protocole de sécurité
+    src: "/assets/images/protocolestages.jpg"
+    href: "/stages/protocole/"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Parascolaires
+    titre_img: Parascolaires
+    titre_overlay: Parascolaires
+    src: "/assets/images/anniversaires.jpg"
+    href: "/activites/"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Anniversaires
+    titre_img: Anniversaires
+    titre_overlay: Anniversaires
+    src: "/assets/images/anniversaires.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+slogan: Le CFS, à votre service depuis 1981.
+une:
+  nom: Stages à la Une
+  images:
+  - name: Stages Toussaint
+    titre_overlay: Stages Toussaint
+    img: "/assets/images/stages/toussaint.jpg"
+    bouton: Plus d'info
+    nouveau: ''
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: Viens te défouler dans une ambiance familiale !
+    lieu: Bruxelles / Brabant Wallon
+    age: 3-16 ans
+  - name: Robotique
+    titre_overlay: Robotique
+    img: "/assets/images/stages/robotique2.png"
+    bouton: Plus d'info
+    nouveau: oui
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: |-
+      Votre enfant est fou de création et de programmation?
+
+      Ce stage allie les deux:  les nouvelles technologies et l’informatique.
+
+      Afin de donner aux enfants de nouvelles clefs de réussite, nous allons via 5 sessions d’exercices développer des processus de réflexion pour formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation de robots et présentation du travail effectué).
+
+      Pour éviter que les enfants restent toute la journée devant les écrans, ils passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du centre.
+    lieu: Bruxelles / Brabant Wallon
+    age: 8 - 12 ans
+  - name: Evasion
+    titre_overlay: Evasion
+    img: "/assets/images/evasionalaune.jpg"
+    bouton: Plus d'info
+    nouveau: ''
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: |-
+      Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !
+
+      PROGRAMME ETE: New games, Walibi, Mer, Barrage de l'Eau d'Heure & Profondeville
+    lieu: Bruxelles / Brabant Wallon
+    age: 12-16 ans
+  - name: Far-west
+    titre_overlay: Far-west
+    img: "/assets/images/farwestalaune.jpg"
+    bouton: Plus d'info
+    nouveau: oui
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: |-
+      HIIIIIIIIIHAAAAAAAAA
+
+      Quelle semaine chez les Cowboys et les Indiens !
+
+      Jeux à thèmes, bricolages (costumes, arc à flèches, etc.) et une journée inoubliable au Ranch "La Cabriole" à Fernelmont.
+
+      Dépaysement garanti !
+    lieu: Brabant
+    age: 5 à 8 ans
+banner:
+  src: "/assets/images/slider/accueil/anniversaire.png"
+  titre: Je réserve mon anniversaire
+activites:
+  nom: Nos activités
+  images:
+  - titre: Activités extrascolaires
+    titre_img: Activités extrascolaires
+    titre_overlay: Activités extrascolaires
+    src: "/assets/images/boutonsactivites/extrascolaires.png"
+    href: "/activites/extrascolaire/"
+    autre_page: ''
+    bouton: Inscription
+    couleur_bouton: ''
+  - titre: Parascolaire
+    titre_img: Parascolaire
+    titre_overlay: Parascolaire
+    src: "/assets/images/boutonsactivites/parascolaires.png"
+    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2
+    autre_page: ''
+    bouton: Inscription
+    couleur_bouton: ''
+  - titre: Cours adultes
+    titre_img: Cours adultes
+    titre_overlay: Cours adultes
+    src: "/assets/images/boutonscoursadultes/coursadultes.png"
+    href: "/cours_adultes"
+    autre_page: ''
+    bouton: Inscription
+    couleur_bouton: ''
+  - titre: Évènements
+    titre_img: Évènements
+    titre_overlay: Évènements
+    src: "/assets/images/event/event.png"
+    href: "/events"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
